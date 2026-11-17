@@ -69,7 +69,7 @@ The existing list is cleared before generating new items to prevent duplicate ou
 ## Screenshots
 
 ### Q1 – Interactive Text Changer
-![Q1 Output](screenshots/Q1.png)
+![Q1 Output]([screenshots/Q1.png](https://github.com/dubuyow/bic21203-lab4a-javascript/blob/main/Screenshot%202026-11-17%20103556.png))
 
 ### Q2 – Smart Number Validator
 ![Q2 Output](screenshots/Q2.png)
