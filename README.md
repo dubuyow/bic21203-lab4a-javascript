@@ -56,23 +56,3 @@ This question uses an if...else if...else structure to validate user input and c
 This question uses a for loop and DOM manipulation to generate five list items from 1 to 5 when the user clicks the Generate button.
 
 The existing list is cleared before generating new items to prevent duplicate output.
-
-## How to Run the Project
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open the Q1, Q2 or Q3 folder.
-4. Double-click the `index.html` file.
-5. Run the webpage using a desktop browser such as Google Chrome.
-6. Interact with the buttons to test each question.
-
-## Screenshots
-
-### Q1 – Interactive Text Changer
-![Q1 Output]([screenshots/Q1.png](https://github.com/dubuyow/bic21203-lab4a-javascript/blob/main/Screenshot%202026-11-17%20103556.png))
-
-### Q2 – Smart Number Validator
-![Q2 Output](screenshots/Q2.png)
-
-### Q3 – Dynamic Number Generator
-![Q3 Output](screenshots/Q3.png)
